@@ -20,8 +20,8 @@
 #define SERVER_IP "192.168.68.119:5000"
 
 #ifndef STASSID
-#define STASSID "PereirasMx"
-#define STAPSK "P3R31r4$!"
+#define STASSID "PereirasMx" //wifi de exemplo
+#define STAPSK "P3R32024" 
 #endif
 
 void setup() {
